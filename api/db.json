@@ -1,0 +1,28 @@
+{
+    "users":[
+        {
+            "id": "unique-1",
+            "name": "Yüsra",
+            "salary": "5000",
+            "department": "Bilişim"
+          },
+          {
+            "name": "Senim",
+            "salary": "3000",
+            "department": "Pazarlama 2",
+            "id": "unique-2"
+          },
+          {
+            "name": "Sude",
+            "department": "Pazarlama",
+            "salary": "6000",
+            "id": "2W2dzjZ"
+          },
+          {
+            "name": "Selin",
+            "salary": "5000",
+            "department": "İnsan Kaynakları",
+            "id": "0HojoiW"
+          }
+    ]
+}
